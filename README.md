@@ -32,6 +32,8 @@ start launcher.exe -lang portugueseBR -masterip global -decryptedfiles -enablecu
 ```
 5. Caso queira, crie um atalho do arquivo .bat em sua área de trabalho, fica mais fácil de iniciar o jogo
 
+
+# Algumas Imagens da Tradução
 <p align="center">
 <img src="https://user-images.githubusercontent.com/20705376/230686340-ae7ff082-37e0-4f34-8afc-d86109812196.png" />
 <img src="https://user-images.githubusercontent.com/20705376/230686345-2e67a3a7-8695-45f1-9e58-d6654ec35f34.png" />
