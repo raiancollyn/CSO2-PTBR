@@ -17,7 +17,7 @@ Esta localização por enquanto só foi testada no jogo [“Counter strike onlin
 # Licença
 
 Este projeto não é afiliado à Valve ou à Nexon. Counter-Strike: Online 2 é de propriedade dessas empresas.
-Licenciado sob a licença CC BY-SA 3.0. Consulte ``CÓPIA`` para mais informações.
+Licenciado sob a licença CC BY-SA 3.0. Consulte ``LISENSE`` para mais informações.
 
 
 # Instruções de instalação:
