@@ -1,6 +1,6 @@
 # Localização para Português do Brasil para o jogo Counter-Strike Online 2
 
-<a href="http://creativecommons.org/licenses/by-sa/3.0/">![CC BY-SA 3.0](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)</a>
+<a href="http://creativecommons.org/licenses/by-sa/4.0/">![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)</a>
 
 
 Esta localização por enquanto só foi testada no jogo [“Counter strike online 2 Global”](http://cso2.wohlnet.ru/)!
