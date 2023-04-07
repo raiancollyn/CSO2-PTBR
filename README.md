@@ -5,9 +5,9 @@
 
 Esta localização por enquanto só foi testada no jogo [“Counter strike online 2 Global”](http://cso2.wohlnet.ru/)!
 
-<!--
-⚠️A tradução ainda está em desenvolvimento, mas, caso encontre algum problema, reporte-o em: Em breve...
--->
+
+⚠️A tradução ainda está em desenvolvimento, mas, caso encontre algum problema, reporte-o em: (https://github.com/raiancollyn/CSO2-PTBR/issues)
+
 
 
 <p align="center">
@@ -22,7 +22,7 @@ Licenciado sob a licença CC BY-SA 3.0. Consulte ``LISENSE`` para mais informaç
 
 # Instruções de instalação:
 
-1. [Baixe] a versão de localização mais recente (Em breve...).
+1. [Baixe] a versão da tradução mais recente (https://github.com/raiancollyn/CSO2-PTBR/releases/tag/Release).
 2. Extraia o conteúdo para dentro da pasta "Custom". Normalmente fica em: *C:\Counter-Strike Online 2 Global\custom*
 3. Crie um script .bat dentro da pasta "bin" do jogo. Normalmente fica em: *C:\Counter-Strike Online 2 Global\Bin*
 -- O nome do arquivo deve ser algo que te ajude a lembrar dele, como: **"Counter-Strike Online 2 Global PT-BR.bat"** (Pode usar outros nomes).
