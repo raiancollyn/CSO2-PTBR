@@ -19,6 +19,9 @@ Esta localização por enquanto só foi testada no jogo [“Counter strike onlin
 Este projeto não é afiliado à Valve ou à Nexon. Counter-Strike: Online 2 é de propriedade dessas empresas.
 Licenciado sob a licença CC BY-SA 3.0. Consulte ``LISENSE`` para mais informações.
 
+# Versões para Baixar
+
+Faça o download da versão mais recente acessando o link: https://github.com/raiancollyn/CSO2-PTBR/releases
 
 # Instruções de instalação:
 
