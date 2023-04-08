@@ -11,7 +11,8 @@ Esta localização por enquanto só foi testada no jogo [“Counter strike onlin
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/20705376/230684981-78248a2a-af2a-4640-87cc-efe1c8133aa3.png" />
+<img src="https://user-images.githubusercontent.com/20705376/230698236-9c07139c-3409-4047-92ec-fe935dc19bca.jpg" />
+
 </p>
 
 # Licença
