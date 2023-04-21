@@ -26,7 +26,7 @@ Faça o download da versão mais recente acessando o link: https://github.com/ra
 
 # Instruções de instalação:
 
-1. [Baixe] a versão da tradução mais recente (https://github.com/raiancollyn/CSO2-PTBR/releases/tag/Release).
+1. [Baixe] a versão da tradução mais recente (https://github.com/raiancollyn/CSO2-PTBR/releases).
 2. Extraia o conteúdo para dentro da pasta "Custom". Normalmente fica em: *C:\Counter-Strike Online 2 Global\custom*
 3. Crie um script .bat dentro da pasta "bin" do jogo. Normalmente fica em: *C:\Counter-Strike Online 2 Global\Bin*
 -- O nome do arquivo deve ser algo que te ajude a lembrar dele, como: **"Counter-Strike Online 2 Global PT-BR.bat"** (Pode usar outros nomes).
